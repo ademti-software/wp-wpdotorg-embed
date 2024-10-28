@@ -2,15 +2,16 @@
 
 /*
 Plugin Name: WP.org Embed
-Plugin URI: http://www.leewillis.co.uk/wordpress-plugins
+Plugin URI: https://www.ademti-software.co.uk/
 Description: Paste the URL to a WordPress.org plugin into your posts or pages, and have the plugin information pulled in and displayed automatically
 Version: 1.4
-Author: Lee Willis
-Author URI: http://www.leewillis.co.uk/
+Author: Ademti Software
+Author URI: https://www.ademti-software.co.uk/
 */
 
 /**
- * Copyright (c) 2013 Lee Willis. All rights reserved.
+ * Copyright (c) 2013-2015 Lee Willis. All rights reserved.
+ * Copyright (c) 2015-2024 Ademti Software. All rights reserved.
  *
  * Released under the GPL license
  * http://www.opensource.org/licenses/gpl-license.php
