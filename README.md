@@ -18,7 +18,7 @@ A WordPress plugin that allows you to embed realtime information about plugins o
 This plugin is no longer supported and is provided for reference purposes only.
 
 ### Can I change the layout?
-Not yet, we're hoping to add templating - [all contributions welcome](https://github.com/leewillis77/wp-wpdotorg-embed)!
+No.
 
 ## Changelog
 
